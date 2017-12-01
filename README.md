@@ -3,11 +3,8 @@ Minesweeper using pygame
 
 # Before playing
 To be able to play the game you need to have both python and pygame install on your machine.
-To install pygame you can:
-* run the following command
-$ pip install pygame
-* follow the installation stages described in the link below:
-http://www.pygame.org/wiki/GettingStarted#Pygame%20Installation
+To install pygame you just have to follow the stages descrobed on the link below depending on the OS your are using:
+https://www.pygame.org/wiki/GettingStarted
 
 # Launch the game
 Once everything is installed all you have to do is clone the repository Kalinesweeper and run the script play.py.
