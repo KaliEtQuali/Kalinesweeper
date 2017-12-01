@@ -23,4 +23,4 @@ This is the minesweeper screen in which you can play freely with the mouse. The 
 When the game is finished (win, lose or quit), you have to press Enter to pass to the final screen (a reminder will show up)
 
 ## The third screen
-This is where you can choose wether or not you want play again. You just have to choose between the two buttons (yes and no) that you select using the Keyboard + Enter or using the mouse
+This is where you can choose wether or not you want to play again. You just have to choose between the two buttons (yes and no) that you select using the Keyboard + Enter or using the mouse
