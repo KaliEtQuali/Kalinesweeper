@@ -2,7 +2,7 @@
 Minesweeper using pygame
 
 ## Before playing
-To be able to play the game you need to have both python and pygame install on your machine.
+To be able to play the game you need to have both python (preferably python 3) and pygame install on your machine.
 To install pygame you just have to follow the stages described on the link below depending on the OS your are using:
 https://www.pygame.org/wiki/GettingStarted
 
